@@ -15,7 +15,6 @@ This project demonstrates how to build a machine learning model to classify SMS 
 - [Usage](#usage)
 - [Results](#results)
 - [Contributions](#contributions)
-- [License](#license)
 - [Acknowledgments](#acknowledgments)
 - [Contact](#contact)
 
