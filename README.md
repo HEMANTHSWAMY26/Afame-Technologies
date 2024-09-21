@@ -1,6 +1,3 @@
-Here is the README file formatted for direct copying:
-
----
 
 # **SMS Spam Detection using Machine Learning**
 
