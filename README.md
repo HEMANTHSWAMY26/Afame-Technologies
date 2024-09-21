@@ -69,7 +69,8 @@ pip install -r requirements.txt
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/HEMANTHSWAMY26/sms-spam-detection.git
+    git clone https://github.com/HEMANTHSWAMY26/Afame-Technologies.git
+
    ```
    
 2. **Install the required dependencies**:
